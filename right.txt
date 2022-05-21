@@ -1,0 +1,23 @@
+--------------Vetor Principal--------------------
+ME-0
+B-3
+S-6
+MD-10
+
+-----------------Vetor Auxiliar--------------------
+ME-0
+B-3
+S-6
+MD-10
+
+Sapo 1: Tam ME Dist-0 Salto-0
+Sapo 2: Tam ME Dist-0 Salto-0
+
+Sapo 1: Tam B Dist-3 Salto-3
+Sapo 2: Tam-S Dist-6 Salto-6
+
+Sapo 1: Tam MD Dist-10 Salto-7
+Sapo 2: Tam MD Dist-10 Salto-4
+-------------------------------------------------
+
+Maior salto minimizado:  7
